@@ -13,7 +13,7 @@
 
 ## Features
 
-Here are a few of the features of this backdoor...
+Here are a few of the features of this Library...
  
 Features:
 * It is very lightweight
