@@ -9,6 +9,12 @@
     <br />
 </p>
 
+<pre>
+<code>
+printf("Hello World");
+</code>
+
+</pre>
 
 
 ## Features
