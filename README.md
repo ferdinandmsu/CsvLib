@@ -1,7 +1,7 @@
 
 <br />
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.freepik.com%2Ffreie-ikonen%2Fcsv-datei-format-erweiterung_741911.htm&psig=AOvVaw2YFthbczU_swg1MN1bUU7B&ust=1611758193028000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPij5Kjpue4CFQAAAAAdAAAAABAO" height="225" width="200"></img>
+  <img src="https://image.flaticon.com/icons/png/512/28/28842.png" height="225" width="200"></img>
   <h3 align="center">CsvLib</h3>
 
   <p align="center">
