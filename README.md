@@ -43,7 +43,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU License. See `LICENSE` for more information.
+This has no license so feel free to take it :)
 
 
 
