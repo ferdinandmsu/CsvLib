@@ -50,4 +50,4 @@ Distributed under the GNU License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/ferdinandkedef/Spyware](https://github.com/ferdinandkedef/Spyware)
+Project Link: [https://github.com/ferdinandlb/CsvLib](https://github.com/ferdinandlb/CsvLib)
