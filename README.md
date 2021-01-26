@@ -11,8 +11,6 @@
 
 <pre>
 <code>
-#include <stdio.h>
-
 #include "CsvLib.h" // Header
 
 int main()
