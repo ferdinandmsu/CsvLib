@@ -20,6 +20,9 @@ Features:
 * It is fast
 * Can parse any csv file
 
+NOTE:
+  This project is not finished yet so it does not have that many features!!!!!
+
 
 
 ### Built With
